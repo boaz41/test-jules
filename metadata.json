@@ -1,0 +1,5 @@
+{
+  "name": "Juice Management System",
+  "description": "A modern web-based management system for a juice business, inspired by KIKO JUICE. It allows for managing customers, products, sales, and payments with full edit and delete capabilities, and includes AI-powered features for product descriptions.",
+  "requestFramePermissions": []
+}
